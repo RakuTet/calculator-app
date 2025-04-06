@@ -1,5 +1,5 @@
 # calculator-app
-I followed a tutorial by AsmrProg-YT to create this. Please check them out:
+I followed a video by AsmrProg-YT to create this. Please check them out:
 <div>
   <a href="https://www.youtube.com/@AsmrProg" target="_blank">YouTube</a>
 </div>
